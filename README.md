@@ -1,1 +1,1 @@
-Ceci est mon tout premier repo GIThub, waow !
+Ceci est mon tout premier repo GIThub, waow ! Mais je galère ;)
